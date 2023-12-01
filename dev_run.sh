@@ -1,0 +1,1 @@
+docker build -t 360evalsystem . && docker run --rm -p 8000:8000 360evalsystem
